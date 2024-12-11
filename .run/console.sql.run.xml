@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="console.sql" type="DatabaseScript" editBeforeRun="true" singleton="false">
+    <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/d689600b-6c1f-4c17-94ca-fa0610e320c6/console.sql" />
+    <script-mode>FILE</script-mode>
+    <method v="2" />
+  </configuration>
+  <configuration default="false" name="console.sql" type="DatabaseScript" editBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/d689600b-6c1f-4c17-94ca-fa0610e320c6/console.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="d689600b-6c1f-4c17-94ca-fa0610e320c6" namespace="schema/&quot;company&quot;" />
+    <method v="2" />
+  </configuration>
+</component>
